@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/claseuno/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/claseuno/static/js/main.72823443.chunk.js",
+    "main.js.map": "/claseuno/static/js/main.72823443.chunk.js.map",
+    "runtime-main.js": "/claseuno/static/js/runtime-main.65685ba1.js",
+    "runtime-main.js.map": "/claseuno/static/js/runtime-main.65685ba1.js.map",
+    "static/js/2.86682836.chunk.js": "/claseuno/static/js/2.86682836.chunk.js",
+    "static/js/2.86682836.chunk.js.map": "/claseuno/static/js/2.86682836.chunk.js.map",
+    "static/js/3.15b16fd6.chunk.js": "/claseuno/static/js/3.15b16fd6.chunk.js",
+    "static/js/3.15b16fd6.chunk.js.map": "/claseuno/static/js/3.15b16fd6.chunk.js.map",
+    "index.html": "/claseuno/index.html",
+    "static/css/main.8c8b27cf.chunk.css.map": "/claseuno/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.86682836.chunk.js.LICENSE.txt": "/claseuno/static/js/2.86682836.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/claseuno/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.65685ba1.js",
+    "static/js/2.86682836.chunk.js",
+    "static/css/main.8c8b27cf.chunk.css",
+    "static/js/main.72823443.chunk.js"
+  ]
+}
